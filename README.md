@@ -22,7 +22,7 @@ This is a simple todo app withch can handle following things offline using sqlit
 ![Build Screen](./screenshots/4.png)
 
 ## Reference
-[Binay Shah](https://github.com/binay-shah/android-todo/)
-[EBBI](https://github.com/ebbi/TodoMVVM)
-[Stackoverflow](https://stackoverflow.com/)
-[Youtube](https://youtube.com/)
+- [Binay Shah](https://github.com/binay-shah/android-todo/)
+- [EBBI](https://github.com/ebbi/TodoMVVM)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Youtube](https://youtube.com/)
